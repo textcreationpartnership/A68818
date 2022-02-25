@@ -1,0 +1,290 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse plainely prouing the euident vtilitie and vrgent necessitie of the desired happie vnion of the two famous kingdomes of England and Scotland by way of answer to certaine obiections against the same.</title>
+            <author>Thornborough, John, 1551-1641.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1604</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68818</idno>
+            <idno type="STC">STC 24035</idno>
+            <idno type="STC">ESTC S107314</idno>
+            <idno type="EEBO-CITATION">99843016</idno>
+            <idno type="PROQUEST">99843016</idno>
+            <idno type="VID">7723</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68818)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 7723)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 677:11, 1039:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse plainely prouing the euident vtilitie and vrgent necessitie of the desired happie vnion of the two famous kingdomes of England and Scotland by way of answer to certaine obiections against the same.</title>
+                  <author>Thornborough, John, 1551-1641.</author>
+               </titleStmt>
+               <extent>[12], 35, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Field for Thomas Chard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1604.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Io. Bristol, i.e. John Thornborough.</note>
+                  <note>The first leaf is blank.</note>
+                  <note>Page A3v last line has "censure"; author's signatures on A4r and F2r have "Io.". Variant: page A3v last line has "sensure"; author's signatures on A4r and F2r have "Ioh.".</note>
+                  <note>Identified as STC 24035a on UMI microfilm reel 677.</note>
+                  <note>Reproductions of the original in the Folger Shakespeare Library and of a photostat of the original in the Henry E. Huntington Library and Art Gallery.</note>
+                  <note>Appears at reel 677 (Folger Shakespeare Library copy) and at reel 1039 (Henry E. Huntington Library and Art Gallery copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  James I, 1603-1625 --  Early works to 1800.</term>
+               <term>England --  Foreign relations --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:7723:1"/>
+            <pb facs="tcp:7723:1" rendition="simple:additions"/>
+            <p> A DISCOVRSE PLAINELY PROVING the euident vtilitie and vrgent <hi>neceſsitie of the deſired happie Vnion</hi> of the two famous Kingdomes of England <hi>and Scotland: by way of anſwer to certaine</hi> obiections againſt the ſame.</p>
+            <figure>
+               <figDesc>woodcut of coat of arms with an anchor</figDesc>
+               <p>AN CHO RA SPEL</p>
+            </figure>
+            <p>LONDON, Printed by <hi>Richard Field</hi> for <hi>Thomas Chard.</hi> 1604.</p>
+            <pb facs="tcp:7723:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:7723:2"/>
+            <head>TO THE KINGS MOST EXCELLENT Maieſtie, <hi>James</hi> by the grace of <hi>God, King of England, Scotland,</hi> France and Ireland, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">Y</seg>O<g ref="char:V">Ʋ</g>R most excellent Maieſtie being graci<g ref="char:EOLhyphen"/>ouſly pleaſed to reade and approoue the writ<g ref="char:EOLhyphen"/>ten Copie of that J haue now printed, and withall to declare your princely pleaſure (ſufficient warrant) for publiſhing the ſame, J haue thought meete in all humbleneſſe of dutie to your Maieſtie, and in all truth of zeale to my countrey, by this meanes to endeuour
+<pb facs="tcp:7723:3"/> to reſolue them which doubted, to per<g ref="char:EOLhyphen"/>ſwade them which denied, and to con<g ref="char:EOLhyphen"/>firme them which applauded the most happie intended Vnion of your Highnes two moſt famous kingdomes of England and Scotland. J was not ignorant that the copies of the obiections againſt it, were this Tearme caried into moſt parts of thoſe your Maieſties Realmes (and I ſuppoſe alſo beyond the ſeas) which might in time without anſwer ſeeme to preiudice your Maieſties honor vniuſtly with ſcandale abroade and murmure at home. Therefore though I be most vn<g ref="char:EOLhyphen"/>worthy to publiſh to the world my meane vnderſtanding in a matter of ſuch graue conſideration and great conſequence, yet haue I rather choſen to hazard my poore credit ſubiect to each ſenſure, then ſuffer
+<pb facs="tcp:7723:3"/> a cauſe in its owne worth ſo precious, to ſuſtaine wrong by generall ſilence: for obiections are of force, where no anſwer doth refute. Onely I humbly craue your Highneſſe pardon for my bold preſump<g ref="char:EOLhyphen"/>tion, and will euermore with hands and heart lift vp to heauen, pray to God for the preſeruation of your gracious Ma<g ref="char:EOLhyphen"/>ieſtie, and of your royall iſſue, in all honor, health and happineſſe.</p>
+            <closer>
+               <signed>
+                  <hi>Your Maieſties faithfull ſubiect, and humble ſeruant,</hi> Ioh. Bristol.</signed>
+            </closer>
+            <pb facs="tcp:7723:4"/>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:7723:4"/>
+            <head>
+               <hi>A Diſcourſe plainely prouing the</hi> euident vtilitie, and vrgent neceſsitie of <hi>the deſired happie vnion of the two famous</hi> Kingdomes of England and Scotland: by way of anſwer to certaine obiections againſt the ſame.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T was long before the Obiections againſt the intended happy vnion of both the Realmes came to my handes: but hauing read them, I could not hold my ha<g ref="char:cmbAbbrStroke">̄</g>d fro<g ref="char:cmbAbbrStroke">̄</g> writing to remoue &amp; cleare them; eſtee<g ref="char:EOLhyphen"/>ming them onely as great ſhew of big logges laid in the way, betweene the two eminent markes ſhot at by the ſoueraigne Vnitor, namely, honor and happineſſe: the one inſe<g ref="char:EOLhyphen"/>parably inherent in his moſt royall perſon:
+<pb n="2" facs="tcp:7723:5"/> the other, aſſuredly intended for Subiects benefite: which things in apparant vtilitie, or vrgent neceſſitie the Obiectors deſire to be ſhewed them: for whoſe ſatisfaction, I haue briefly examined, and anſwered euery obie<g ref="char:EOLhyphen"/>ction. The Obiectors find no preſident at home nor abroad, of vniting or contracting of the names of two ſeuerall Kingdomes or States into one name, where the Vnion hath growne by mariage or bloud: and ſay, that the examples which may be alleaged, are but in caſe of conqueſt. But I remember, that Charles of Fraunce the eighth, as Comineus <note place="margin">Proofe by mariage.</note> mentioneth, taking to wife the heire of litle Btitaine, annexed it to the Crown of France, ruled it by lawes, cuſtomes, and priuiledges of Fraunce, and gaue the Nobles thereof place in Parliament in Fraunce: for vnion is a ſtrong keeper of imperiall Soueraigntie, and is the very ſinewes of weale publique. But as Tacitus ſaith, by diuers lawes, ouer diuerſe nations ſubiect to one King: <hi>Quicquid eſt authoritatis crebris deſtruitur contradictionibus.</hi>
+               <pb n="3" facs="tcp:7723:5"/> Charles the fift vnited in the common name of Spaine diuers other his kingdomes, wher<g ref="char:EOLhyphen"/>of two of them; namely Aragon and Caſtile, <note place="margin">Proofe by bloud.</note> deſcended to him in right of bloud. For he well knew, that the moſt eminent in dignitie is moſt honoured by Vnitie: and that this is truely called Prudence, euen the electing, or reiecting, the continuing or chaunging of formes, and vniting kingdomes, according to time, place, or perſons: which great vertue is not alwaies contained in certaine and the ſame bounds, but altereth it ſelfe as occaſion ſerueth, in reſpect of forenamed circum<g ref="char:EOLhyphen"/>ſtance. But the Obiectors acknowledge vni<g ref="char:EOLhyphen"/>ting of kingdoms in caſe of conqueſt. I mar<g ref="char:EOLhyphen"/>uell they do it not much more by right of bloud: for in that vnion of conſtraint, there is euer doubt, and dread for continuance ther<g ref="char:EOLhyphen"/>of, as is well ſaid: <hi>Malus cuſtos diuturnitatis metus:</hi> but in this by right of bloud, God giueth bleſſing to natures worke: firſt, in the greater maieſtie of the high and ſupreme gouernor, where one mightie Monarch is of more
+<pb n="4" facs="tcp:7723:6"/> commaund and power, then a king of diuers diſtinguiſhed kingdomes.</p>
+            <p>Secondly, in the more facilitie of the go<g ref="char:EOLhyphen"/>uernment, where people vnder like lawes, are more eaſily ruled, then vnder diuers lawes. And thirdly, in the more ſecuritie of the gouerned, who being led with like equi<g ref="char:EOLhyphen"/>tie of lawes, will one loue and ſtrengthen the other: but being deuided, do oftentimes vn<g ref="char:EOLhyphen"/>dermine, and practiſe ſubuerſion one of the other. <hi>Vires imperij in conſenſu ſunt obedientium: tolle</hi> 
+               <note place="margin">Liuy.</note> 
+               <hi>vnitatem &amp; omnis imperij contextus in multas partes diſ<g ref="char:EOLhyphen"/>ſidet.</hi> VVhich conſideration made king Hen<g ref="char:EOLhyphen"/>rie the eighth rightfully aſſuming the title of King of Ireland, by voluntarie Vote in Par<g ref="char:EOLhyphen"/>liament of the Lords and Commons of that kingdome, (albeit the Kings of England were before that time, but called Lords of Ireland) yet now changing his Stile, to ende<g ref="char:EOLhyphen"/>uour by iuſt lawes to cauſe the Iriſh chaunge as well their apparel, as language, and diuers their old formes and former lawes, and to re<g ref="char:EOLhyphen"/>duce them into forme of Engliſh faſhion, e<g ref="char:EOLhyphen"/>uen
+<pb n="5" facs="tcp:7723:6" rendition="simple:additions"/> againſt their former cuſtomes and con<g ref="char:EOLhyphen"/>ditions. It is then a matter not onely of vtility and neceſſitie, but alſo of reaſon and iuſtice, that a King in right of bloud holding two kingdomes or States, do vnite and contract them into one name and nature, ſpecially kingdomes of one continent, and which in auncient times were but one, till ambition and contention deuided them. And this may ſtand for anſwer to the Obiectors firſt maine head of matter of eſtate inward.</p>
+            <p>Now where it is farther alleaged, that the alteration of the name of the King, doth ine<g ref="char:EOLhyphen"/>uitably and infallibly draw on an erection of a new kingdome, and a diſſolution and ex<g ref="char:EOLhyphen"/>tinguiſhment of the old: herein verily I think the matter is much miſtaken, for the change of name, is not ſo rightly to be tearmed alte<g ref="char:EOLhyphen"/>ration or new erection, as reſtitution and re<g ref="char:EOLhyphen"/>paration both of name and honor: for diuers his Maieſties moſt noble Progenitors, haue heretofore bene entitled (as Chronicles tell vs) Kings of all Britaine: as Henry the ſecond
+<pb n="6" facs="tcp:7723:7"/> King of al Britaine, Duke of Gaſcoine, Guien and Normandie, whoſe ſonne king Iohn had alſo in his coine ſtamped, as is to be ſhewed, <hi>Iohannes Rex Britonum.</hi> And before the con<g ref="char:EOLhyphen"/>queſt of the Saxons, it is certaine that the whole Ile was called by the name of Britain. But Saxons entring at diſaduantage of that mightie nation, conſumed by death and fa<g ref="char:EOLhyphen"/>mine, conquering the remnant of people of famous Britaine, enforced them to diſtin<g ref="char:EOLhyphen"/>guiſh and deuide themſelues by flying into mountaines and fortified places. And after<g ref="char:EOLhyphen"/>ward king Egbert, vtterly to roote out the remembrance of great Brittaine, commaun<g ref="char:EOLhyphen"/>ded that the Land ſhould be called no more by that name, but England, and the people, Engliſhmen. But Egbert is dead, his power weake, nay none at all: let none therefore feare to reſtore his countrie to his old name, and auncient honor: for Egbert I ſay is dead, and king IAMES liueth, <hi>&amp; viuat &amp; vincat Rex Ia<g ref="char:EOLhyphen"/>cobus.</hi>
+            </p>
+            <p>This I ſay and enforce againe, is a matter
+<pb n="7" facs="tcp:7723:7"/> alſo reaſonable, iuſt, vtile, and neceſſarie, ſee<g ref="char:EOLhyphen"/>ing the Soueraigne bringeth in no innouati<g ref="char:EOLhyphen"/>on of a new name, but reſtitution of the old, no diſſolution, but fortification, whereto I know none will ſubſcribe, which either enuy the Kings greatneſſe, or kingdomes happi<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>But let none maruell, why it hath not this long time bene reduced into his former name: for the diuerſitie of kingdomes, being made diuers by warre and conqueſt, and ha<g ref="char:EOLhyphen"/>uing heretofore diuers kings, could not in reaſon or iuſtice indure it, nor vnder any co<g ref="char:EOLhyphen"/>lour of vtilitie, or neceſſitie vndergo, or con<g ref="char:EOLhyphen"/>clude it.</p>
+            <p>But now ſeeing our ſoueraigne Lord the king, being rightfully deſcended of all thoſe kings and princes, which heretofore raigned and ruled in England, Scotland, or VVales, as he only hath power to reſtore all into one to former title and dignitie, ſo let none think this his princely and iuſt pleaſure, a new ere<g ref="char:EOLhyphen"/>ction, but reſtitution of old, where it is more
+<pb n="8" facs="tcp:7723:8"/> reaſonable and iuſt, to extinguiſh the name of leſſer continuance, then the name which had continued &amp; bene famous by the ſpace of 1137. yeares before Chriſt, and 688. af<g ref="char:EOLhyphen"/>ter his incarnation, which whole computa<g ref="char:EOLhyphen"/>tion cometh to 1825. yeares. And where it is moſt honorable by iuſt deſcent in right of bloud, not onely to change, but to aboliſh the name impoſed by a Conqueror to the diſhonor of a Nation: and where, for ought I vnderſtand, the matter is not ſo difficult, nor of that inconuenience and danger, but may with much eaſe and ſafetie be done with <hi>ſaluo iure,</hi> or other reſeruation and explana<g ref="char:EOLhyphen"/>tion, as the wiſe and learned in the lawes can at large deuiſe, when they lift, <hi>ſiue noua excogi<g ref="char:EOLhyphen"/>tent, ſiue antiqua reſtituant.</hi>
+            </p>
+            <p>But for example, I bring the vniting of Dane-Lex, and Mercia-lex, by Edward the Confeſſor, which was not preiudicial to any, that euer I could reade, but profitable and needfull to all, in the aboliſhing of diuers old lawes, and ordaining diuers new, and ma<g ref="char:EOLhyphen"/>king
+<pb n="9" facs="tcp:7723:8"/> lawes to all, all one: done no doubt with due reſpect to weale publike, with needfull limitation and due conſideration of men, matter, time, place, and other circumſtance. Neither doth any new erection and extin<g ref="char:EOLhyphen"/>guiſhment of old, ſo neceſſarily conclude in<g ref="char:EOLhyphen"/>conuenience full of repugnancie, danger of conſtruction and confuſion as is pretended: but may in this caſe <hi>(vbi beata omnium vita mo<g ref="char:EOLhyphen"/>deratori eſt propoſita)</hi> as eaſily be cleared and a<g ref="char:EOLhyphen"/>uoyded, as it was when the principalitie and countrie of VVales was by Parliament in<g ref="char:EOLhyphen"/>corporated and vnited vnto the kingdome of England, and all the inhabitants thereof made equall in freedomes, liberties, rights, priuiledges, lawes, and in all other reſpects to the natural ſubiects of England, and all in<g ref="char:EOLhyphen"/>heritances made of Engliſh tenure, to deſ<g ref="char:EOLhyphen"/>cend without diuiſion or partition after the maner of England: and the Lawes, Statutes, and Ordinances of the Realme of England, commaunded to be executed and put in pra<g ref="char:EOLhyphen"/>ctiſe within the countrie and Principalitie of
+<pb n="10" facs="tcp:7723:9"/> VVales. So as now in this new erection and diſſolution of the old, the VVelſhmen with vs and we with them acknowledge ioyfully, one onely Gouernor, and one only gouern<g ref="char:EOLhyphen"/>ment, where the maieſtie of the Gouernour is equally <hi>ſupra nos,</hi> and the iuſtice and equi<g ref="char:EOLhyphen"/>tie of the gouernment equally <hi>pro nobis:</hi> where is <hi>certus ordo in iubendo &amp; parendo.</hi> VVhich cer<g ref="char:EOLhyphen"/>taine and the ſame courſe and order of com<g ref="char:EOLhyphen"/>maunding by the king, and by his lawes, and of obedience in ſubiects, is a ſtrong tye, and as it were a vitall ſpirit, holding in one infinite thouſands: where <hi>Regere</hi> as the Philoſopher ſpeaketh, is reckened <hi>inter ne<g ref="char:EOLhyphen"/>ceſſaria,</hi> 
+               <note place="margin">
+                  <hi>Ariſt.</hi> 1. <hi>Pol. cap.</hi> 3.</note> and <hi>Regi inter vtilia.</hi>
+            </p>
+            <p>Againe, could ſeuen kingdomes of Saxons be reduced into one, and in good time, all their diuers Lawes, whereby the diuerſe ſub<g ref="char:EOLhyphen"/>iects of thoſe ſeuen diuers kingdomes were diuerſly gouerned, be brought into one form of ciuill gouernment without repugnancie, ambiguitie or danger: and ſhall we thinke it a matter of ſuch difficultie, to vnite onely two
+<pb n="11" facs="tcp:7723:9"/> kingdomes, which do not much differ in manners, lawes and cuſtomes; ſauing ſuch lawes and cuſtomes, as were formerly ordai<g ref="char:EOLhyphen"/>ned on each part one againſt another, when they were enemies, or ſcarce friends one to the other? VVhich lawes doubtleſſe all will ſay, muſt be abrogated, that in further pro<g ref="char:EOLhyphen"/>ceeding to vnion, wiſe men, with graue con<g ref="char:EOLhyphen"/>ſideration may conclude it, for good of both nations, without offence, as in former times much more hath bene done with leſſe ado.</p>
+            <p>An Empire of many kingdomes thus re<g ref="char:EOLhyphen"/>duced into one, is not vnlike the firmament of heauen, which God hath adorned with the two great lights, the Sunne and Moone, and other Starres, euen the whole army and harmonie of the heauens in one firma<g ref="char:EOLhyphen"/>ment. VVho ſo throweth a ſtone againſt heauen, ſaith the VViſe man, it will fall vpon his own head. And if any one ſtanding alone from the reſt, ſpeaketh againſt and oppug<g ref="char:EOLhyphen"/>neth this Vnion, better it were (ſauing my charitie) that <hi>vnus ille periret, quàm Vnitas.</hi>
+            </p>
+            <pb n="12" facs="tcp:7723:10"/>
+            <p> Touching the enumeration and reci<g ref="char:EOLhyphen"/>tall of the ſpeciall or ſeuerall confuſions, incongruities and miſchiefes, which in the Obiections are in the ſecond place, of matter of Eſtate inwarde, pretended, I briefly anſwer, that there is no feare of con<g ref="char:EOLhyphen"/>fuſion in true and perfect Vnion. VVhich thing the mightie Alexander, renowmed for fortitude and pollicie, well knewe, who is much commended by Plutarke, that <note place="margin">Plut. de fortuna A<g ref="char:EOLhyphen"/>lexandri.</note> (where Zeno chiefe of Stoickes framed an Idea of beſt Common wealth, ſuch as was not deuided by countreyes and contrarie cuſtomes, but was as all one, of one kinde of life, and as one flocke feeding in one paſture, vnder one ſhepheard) Alexander I ſay, put that in practiſe which Zeno but ima<g ref="char:EOLhyphen"/>gined: for ſaith Plutarke: Not as Ariſtotle A<g ref="char:EOLhyphen"/>lexanders Maiſter taught him, ſo did he, li<g ref="char:EOLhyphen"/>uing as a father to the Graecians, and cruell Commander ouer Barbarians, reſpecting ſome, and neglecting others: but he recon<g ref="char:EOLhyphen"/>ciled all into one, mixing mens liues, lawes,
+<pb n="13" facs="tcp:7723:10"/> names and mariages together, and perſwa<g ref="char:EOLhyphen"/>ding that none were Aliens and ſtrangers a<g ref="char:EOLhyphen"/>mong his ſubiects, but ſuch as were euill men, accounting all good men, as one man.</p>
+            <p>Now I conclude this point, that there is no confuſion, incongruitie, or miſchiefe to be feared in that Vnion, where our moſt rightfull King ſitteth, not by conqueſt of ſword, but by right of royall bloud in the ſeate of his moſt noble Progenitors: and not as Alexander, who by conqueſt ſate in the ſeate of Darius among Perſians: nor as Xer<g ref="char:EOLhyphen"/>xes <note place="margin">
+                  <hi>Herod. lib.</hi> 7</note> who ioyned Aſia and Europa together with a woodden bridge ouer Helleſpont: but as al other moſt mightie Gouernors, and the beſt Kings haue (by a golden bridge of likeneſſe, of loue, of equitie, of lawes, and of co<g ref="char:cmbAbbrStroke">̄</g>mon comforts of ſocietie and ioy, (all which were both profitable and needfull) ioyned together two or more kingdoms, for their owne greater honor, and ſubiects more vndoubted happineſſe.</p>
+            <pb n="14" facs="tcp:7723:11"/>
+            <p> VVhich thing likewiſe that noble and va<g ref="char:EOLhyphen"/>liant Troian Aeneas long ſithence put in vſe, who by Vnion, euen of diuers nations, <hi>Om<g ref="char:EOLhyphen"/>nes</hi> 
+               <note place="margin">
+                  <hi>Liu. lib.</hi> 1.</note> 
+               <hi>eodem nomine, &amp; eodem iure Latinos vocauit.</hi> And thereby as Liuie reporteth of him, he made many and diuers nations as one people, moſt familiar, and moſt friendly together.</p>
+            <p>Do not diuers Sunne beames come from one Sunne, and all they of one nature? Are not diuers lines drawne from one Center, and all they of one faſhion? Are not diuerſe boughes from one tree, and all they of one and the ſame ſubſtance? And may not diuers people vnder one Prince, though they are deuided in perſons, yet be vnited in lawes? and though they be ſundred in Countries, yet be knit together in hearts, ſpecially if e<g ref="char:EOLhyphen"/>mulation cauſe no incongruitie, nor diſor<g ref="char:EOLhyphen"/>der confuſion, nor ſtrife miſchiefe, only with ſauing each mans honor, with continuance of each good cuſtome, and with furtherance and eſtabliſhing the common good of weale publique?</p>
+            <pb n="15" facs="tcp:7723:11"/>
+            <p> The King is the countries Parent, who by Vnion, <hi>non ſeruos, ſed ciues cogitat:</hi> and as Iupiter was ſaid to be <hi>Rex omnibus idem;</hi> ſo would his Maieſtie be <hi>idem omnibus,</hi> one head to one bo<g ref="char:EOLhyphen"/>die. VVherefore if he deſire to vnite the two kingdomes, and to account them one, and as one beloued ſonne, (whoſe life is deare, and whoſe happines ioy to him) that all ſub<g ref="char:EOLhyphen"/>iects as one ſonne, in common apparant vti<g ref="char:EOLhyphen"/>litie, might participate common patrimony of iuſt Lawes for VVeale publique, let none be ſo hardie (with the harlot in the daies of Salomon) to ſay to the king our common parent: Deuide the child, and cut it into two parts; leaſt ſuch diuiſion part that into two, which God in nature firſt made one: and now in his greater goodneſſe hath reſtored, in the royall perſon of our gracious King into one: what God hath ſo ioyned together, let no man put aſunder. For her of may ariſe plaine incongruitie, and fearefull inconuenience, which may farther grow into confuſion, and miſchiefe.</p>
+            <pb n="16" facs="tcp:7723:12"/>
+            <p> Onely I pray them, which obiect againſt the happie Vnion, to ſet before their eyes, and to conſider with their hearts, the grie<g ref="char:EOLhyphen"/>uous contention betweene the diuers peo<g ref="char:EOLhyphen"/>ple of the kingdome of Iſraell and the king<g ref="char:EOLhyphen"/>dome of Iudah: for albeit the two kingdoms were vnited in the perſon of Dauid their king, yet for want of more perfect Vnion in <note place="margin">2. <hi>Sam.</hi> 5.</note> lawes and loue, there aroſe heart-burnings on both ſides: for Iſrael complained: The men of Iuda haue ſtolne the king from vs: and they of Iuda challenged, that the king <note place="margin">2. <hi>Sam.</hi> 19.</note> was nearer in bloud to them, then to Iſraell: and Iſraell againe replyed, that they had ten parts in the king, and therefore had more right to him. But what in end grew of this co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tention and emulation, conſider I pray, and preuent ſuch inconuenience and miſchiefe: there was not any one among the Tribes in the ſecond generation that followed the houſe of Dauid, but Iuda onely: <hi>Omen auertat</hi> 
+               <note place="margin">1. <hi>King.</hi> 12.</note> 
+               <hi>Deus.</hi>
+            </p>
+            <p>VVhen I was but a young ſcholer, I lear<g ref="char:EOLhyphen"/>ned
+<pb n="17" facs="tcp:7723:12"/> to call that aequiuocation, which was <hi>corpus monſtroſum,</hi> vnder one name of diuerſe formes: as <hi>homo pictus,</hi> and <hi>homo viuus</hi> agree in the name of man, but not in the ſame reaſon, definition, and nature: ſo I can call the agree<g ref="char:EOLhyphen"/>ment of Engliſh and Scottiſh onely in ſubie<g ref="char:EOLhyphen"/>ction to one Soueraigne, but without farther Vnion of lawes and true loue, not liuely and indeede, but painted and in ſhew; not ſub<g ref="char:EOLhyphen"/>ſtantiall, but aequiuocall; not reall, but nomi<g ref="char:EOLhyphen"/>nall: namely, in the King, as in the head, which is but one: but not in themſelues, as in the bo<g ref="char:EOLhyphen"/>die, which likewiſe is, or ſhould be but one. This is true incongruitie, whereof may ariſe ſuch farther fearefull inconuenience, as I wiſh may be to them that hate the State, and the experience thereof vnto the kings enemies.</p>
+            <p>Touching the particulars of confuſion, &amp;c. ſurmiſed by the Obiectors, I briefly anſwer: firſt, that exception taken of ſummoning fu<g ref="char:EOLhyphen"/>ture Parliament, is not worth anſwer: for the ſtile and title of the king chaunged, may change alſo in future VVrits.</p>
+            <pb n="18" facs="tcp:7723:13"/>
+            <p> Secondly, the changing of Seale, is one<g ref="char:EOLhyphen"/>ly charge of a new cut.</p>
+            <p>Thirdly, the great old Officers of the king<g ref="char:EOLhyphen"/>dome, when they (yet moſt worthie of of<g ref="char:EOLhyphen"/>fice) do hereafter weare out, the kings Ma<g ref="char:EOLhyphen"/>ieſtie ſhall afterward by this Vnion, haue more choice to preferre the worthieſt: for his Maieſtie by this Vnion ſhall gaine more choice for all the publike ſeruices, to be per<g ref="char:EOLhyphen"/>formed either at home or abroade. Neither may it be reaſonable for any man, for priuate or particular reſpects to repine thereat: like to Cato his ſonne, who feared leſt by his fa<g ref="char:EOLhyphen"/>thers <note place="margin">Plut. Cato.</note> mariage he might leeſe ſomwhat of his patrimonie, and therefore murmured leſt his father ſhould beget mo ſonnes: but had his anſwer with a ſound reply vnanſwerable: Sonne, I deſire to haue moe ſonnes like thy ſelfe, good Citizens, and ſeruiceable for the Commonweale.</p>
+            <p>Fourthly, touching lawes, cuſtomes li<g ref="char:EOLhyphen"/>berties, and priuiledges, it is to be wiſhed that the rigour of ours were ſomewhat quali<g ref="char:EOLhyphen"/>fied,
+<pb n="19" facs="tcp:7723:13"/> and the libertie of theirs ſomewhat re<g ref="char:EOLhyphen"/>ſtrained: neither is it a new thing, in ſo large a kingdome, that ſome ſhould be more ena<g ref="char:EOLhyphen"/>bled and honored with priuiledges then o<g ref="char:EOLhyphen"/>thers, according to the Kings good plea<g ref="char:EOLhyphen"/>ſure, in whom dwelleth, and from whom is deriued all true honor.</p>
+            <p>Fiftly, the feare of reſidence, or holding in Scotland ſuch Courts as follow the Kings perſon, is the ſelfe ſame, as if we feared, that without Vnion the King wold hold perſonall Courts in Cornwall: or as if we doubted that ſuch Courts, when our former Kings were perſonally in Fraunce, were not for all that kept at VVeſtminſter. The ſeate of iudgment is the ſeate of the houſe of Dauid, thither the Tribes go vp, and there the peoples feet ſtand, euen in the gates of Ieruſalem; which Ieruſalem is a citie that is at vnitie in it ſelfe: at vnitie concerning matters of religion, at vnitie in matters touching publike iuſtice and gouernment: therefore the king began his Pſal. 122. I was glad when they ſaid to
+<pb n="20" facs="tcp:7723:14"/> me: VVe will go, &amp;c.</p>
+            <p>Laſtly, the exception taken againſt Vnion becauſe of the kings oath at his Coronation, which is neuer iterated, is grounded on the ſelfe ſame reaſon: as if it were alſo alleaged, that becauſe his Maieſtie ſweareth to maine<g ref="char:EOLhyphen"/>taine auncient and fundamentall lawes, ther<g ref="char:EOLhyphen"/>fore vpon circumſtance of time and occaſion he might not alter any law: but let it be re<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>bred, that the kings oath concerneth the lawes &amp; not the title, and we know the lawes may be preſerued, thogh the title be altered.</p>
+            <p>And as for Subiects, I doubt not, but they may without danger, at the pleaſure of the king, ſweare their allegiance and do ho<g ref="char:EOLhyphen"/>mage and obedience after reſtitution of ti<g ref="char:EOLhyphen"/>tle, reformatio<g ref="char:cmbAbbrStroke">̄</g> of law, &amp; Vnion of kingdo<g ref="char:cmbAbbrStroke">̄</g>s.</p>
+            <p>And ancient Records do no more leeſe their force by the chaunge of England into Britaine, then by change of Queene Eliza<g ref="char:EOLhyphen"/>beth into king Iames.</p>
+            <p>And there is no more incertaintie of plea<g ref="char:EOLhyphen"/>dings, inſtruments, and writs, then when a
+<pb n="21" facs="tcp:7723:14" rendition="simple:additions"/> plaintiffe deceaſſeth after ſeuen yeares ſuite, his heire is put to begin, and commence his ſuite anew, and in other name.</p>
+            <p>The heart of obiections againſt Vnion being halfe broken, let vs enter into the third co<g ref="char:cmbAbbrStroke">̄</g>ſideration of matter of State inward, where is obiected a poſſibilitie of alienation of the Crowne of England to the Crowne of Scot<g ref="char:EOLhyphen"/>land, in caſe his Maieſties Line ſhould deter<g ref="char:EOLhyphen"/>mine. But bleſſed be God, our gracious ſo<g ref="char:EOLhyphen"/>ueraigne King is bleſſed with a plentifull iſ<g ref="char:EOLhyphen"/>ſue, and hath yet much farther hope. And I hope (for which I pray night and day) that his Maieſties royall Iſſue ſhall not faile, ſo long as the Sunne and Moone indureth. Ne<g ref="char:EOLhyphen"/>uertheles, if ſome will not labor of the com<g ref="char:EOLhyphen"/>mon bane of good wits, which is rather to diſpute, then obey; and rather to reaſon be<g ref="char:EOLhyphen"/>yond reaſon, then yeeld to reaſon, <hi>(more magis quàm iudicio)</hi> they may herein alſo eaſily an<g ref="char:EOLhyphen"/>ſwer the<g ref="char:cmbAbbrStroke">̄</g>ſelues, that in vniting the two king<g ref="char:EOLhyphen"/>domes, the ſecond place in ſtile may be rather drawne to the next of bloud in our Land, then the kingdome of England
+<pb n="22" facs="tcp:7723:15"/> be transferred to one farther off from this Stemme.</p>
+            <p>VVhich thing, neither Henry the ſeuenth nor Henry the eighth doubted, the one ſee<g ref="char:EOLhyphen"/>king to marie his eldeſt daughter Lady Mar<g ref="char:EOLhyphen"/>garet to king Iames the fourth of Scotland, hoping if his heire male failed, by that means to vnite Scotland to England. And the other hauing his whole drift, to match his ſonne Prince Edward to Queene Mary, foreſeeing in his prouidence the ineſtimable benefite of vniting the two kingdomes: for which cauſe many of the Nobles of Scotland, gaue faith to do their beſt indeuours. But it is a ſtrange doubt, and caſt beyond the Moone, to ima<g ref="char:EOLhyphen"/>gine, that Vnion of the two kingdomes doth ſo confound the State, and change the te<g ref="char:EOLhyphen"/>nure, to bring it ſo into caſe of purchaſe, as it will neceſſarily ſubiect England to Scotland, eſpecially if his moſt excellent Maieſty, of his ſingular tendernes &amp; loue to this his realme of England, be pleaſed to effect &amp; eſtabliſh, that in caſe his royall Iſſue (which Almighty
+<pb n="23" facs="tcp:7723:15"/> God of his infinit mercie defend) ſhold faile, that then by this happie intended Vnion, the Realme of Scotland ſhould for euer be and continue indiſſolubly vnited, and annexed to the lawfull and rightfull inheritance, and ſucceſſion of the Crowne of England, in the bloud royall of the ſame.</p>
+            <p>Now touching matter of State forreine, in anſwer to the firſt obiection: I am well aſ<g ref="char:EOLhyphen"/>ſured, that our forreine affaires were at worſt in the opinion of all, at the deceaſe of our late Queene, and our entercourſe vtterly de<g ref="char:EOLhyphen"/>cayed with many Princes: ſo as we neede a kind of preſent renewing, which may be con<g ref="char:EOLhyphen"/>cluded as well vnder title of King of all Bri<g ref="char:EOLhyphen"/>taine, as of England.</p>
+            <p>To the ſecond it is eaſily anſwered, that the King loſeth no precedencie of place, as is imagined, ſpecially antiquitie (as in the Ob<g ref="char:EOLhyphen"/>iections is alleaged) guiding it, and not greatneſſe. For the Succeſſor to king Arthur of Brittaine, will be worthie in the opinion of the whole world, of better place, then king
+<pb n="24" facs="tcp:7723:16" rendition="simple:additions"/> Egbert of England.</p>
+            <p>To the third, that if the name of England (as is imagined) be obſcured, the name of famous and great Britaine will be illuſtrate, memorable in times paſt to all the then knowne nations of the earth.</p>
+            <p>Touching matter of Honor, it is certaine and euident, that the name of England, though it hath bene worthily moſt famous and great, yet is not equal to the title of great Britaine, when England and Scotland are re<g ref="char:EOLhyphen"/>united, either by reaſon of honor, or of po<g ref="char:EOLhyphen"/>wer. All Hiſtories remembring vnto vs, that the Brittaines long time reſiſted the mightie force of Romaines, Lords, and Conquerors of the world. And albeit ſome fathers can be content to diſinherite their owne daughters, to continue their names: (as is inferred in the obiections) and therefore inforced, ſhould be much more in States, ſpecially where the name hath bene famous: yet for my part, I account ſuch parents vnkind and vnnaturall, where ſelfe loue of their name, maketh them
+<pb n="25" facs="tcp:7723:16"/> forget themſelues, and forſake their owne fleſh. I will not vrge here the law of God, of nature, and of moſt nations where daughters inherit, and names grow extinguiſhed. But this is a vaine reſpect onely of name, wherof is ſpoken; to get a name on earth, and to thinke their name ſhould neuer be put out: whereas ſo many countries, ſo many peo<g ref="char:EOLhyphen"/>ple, ſo many perſons, haue either loſt or left their former name, and moſt willingly haue bene called by another name. <hi>Gaudet cognomine</hi> 
+               <note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>irg. Aen.</hi> 6.</note> 
+               <hi>terra:</hi> that countrie reioyced to be called by a new name: how much more ſhold our land imbrace this name of Britaine; and yet not new, but indeed his old proper name renew<g ref="char:EOLhyphen"/>ed, and as it were rediuiued and reſtored fro<g ref="char:cmbAbbrStroke">̄</g> the dead. Or be it ſimply loſſe only of a bare tranſitorie name; yet as the Prophet Iſay <note place="margin">
+                  <hi>Iſa.</hi> 56. 3.</note> ſpeaketh: Let not the Eunuch ſay, Behold, I am a drie tree, my name ſhall periſh with me. Let vs rather regard that name which God promiſeth to them that ſerue him, ſaying: <note place="margin">
+                  <hi>Iſa.</hi> 56. 5.</note> Euen vnto them will I giue in my houſe and
+<pb n="26" facs="tcp:7723:17" rendition="simple:additions"/> within my pallaces, a place and a name bet<g ref="char:EOLhyphen"/>ter then of ſons and of daughters: I will giue them an euerlaſting name which ſhall not be put out.</p>
+            <p>The Argument of Obliuion deſerueth no anſwer, but ſilence and forgetfulneſſe: and yet I doubt not, but famous acts of Noble Engliſh men, will as well by Chronicle be re<g ref="char:EOLhyphen"/>membred to poſteritie, as the glorie of re<g ref="char:EOLhyphen"/>nowmed Britaine Record remaineth to this day, neither will either be forgotten to the worlds end.</p>
+            <p>The Stile of England now placed before Scotland, doth no way preiudice the Vnion by loſſe of precedencie: for when all is one, there is no ſubſequence: onely Honor is due to him, who is to be honored; and much ho<g ref="char:EOLhyphen"/>nor to him, that is much to be honoured: which thing in the Vnion may eaſily be pro<g ref="char:EOLhyphen"/>uided for, and other pretended inconueni<g ref="char:EOLhyphen"/>ences preuented.</p>
+            <p>Laſtly, the Preiudicating the popular opi<g ref="char:EOLhyphen"/>nion, to whom (as is obiected) chaunge of
+<pb n="27" facs="tcp:7723:17" rendition="simple:additions"/> name will be harſh and vnpleaſing, is in mine opinion a wrong done, and imputation laid vpon the people, who I know (for the moſt part) being a wiſe nation, and (I am ſure) moſt louing ſubiects to the kings Maieſtie, haue learned obedience and dutie, and will therefore rather ioy in the content of their good and gracious King, then any way mur<g ref="char:EOLhyphen"/>mure at his demand: knowing, that the Em<g ref="char:EOLhyphen"/>pire, (as Liuie ſpeaketh) is <hi>firmi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſsimum,</hi> when <hi>eo gaudent obedientes,</hi> who doubtleſſe with one voice and heart ſubmit themſelues, and ſay to their Soueraigne: <hi>Esto nobis ſolus arbiter rerum iure, &amp; nomine regio.</hi>
+            </p>
+            <p>And as for Harſhneſſe of the ſtrange name, vſe will eaſily make it familiar. He ſaid:
+<q>
+                  <l>Multa renaſcentur quae iam cecidere cadent<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>, <note place="margin">Horace.</note>
+                  </l>
+                  <l>Quae nunc ſunt in honore vocabula, ſi volet vſus.</l>
+               </q> This pretended vnpleaſing harſhneſſe is no more, then the niceneſſe of a virgin, who is as loth, and maketh it daintie to leaue her fa<g ref="char:EOLhyphen"/>thers name, yet afterward maried to a huſ<g ref="char:EOLhyphen"/>band, taketh greateſt comfort in the name
+<pb n="28" facs="tcp:7723:18"/> of her husband, in whome ſhe glorieth, and by whom ſhe enioyeth all her worldly ioy. And yet need not England be ſo nice as if ſhe were a virgin, who like a widdow hath ſo of<g ref="char:EOLhyphen"/>ten chaunged her name: but may take pride as widdowes do, to be called by her moſt honorable and moſt glorious name.</p>
+            <p>Thus hauing briefly run ouer the obiecti<g ref="char:EOLhyphen"/>ons, and withall caried in open view in mine anſwer due conſideration both of euident v<g ref="char:EOLhyphen"/>tilitie, and vrgent neceſſitie, I will be bold with additions of more reaſons, yet a litle far<g ref="char:EOLhyphen"/>ther to proceed in the perſwaſion of this de<g ref="char:EOLhyphen"/>ſired happie Vnion. God, alwaies bleſſed, and to be honored for euermore, who is Tri<g ref="char:EOLhyphen"/>nitie in Vnitie, and Vnitie in Trinitie, three perſons, and but one God, doth by influence of his holy Spirit, giue diuers gifts and graces to beleeuers, of what countrie, or condition ſoeuer they be, and gouerneth them by one holy law, and vniteth them in the ſame faith, though diuerſly ſcattered among all the na<g ref="char:EOLhyphen"/>tions of the Chriſtian world: that hereby the
+<pb n="29" facs="tcp:7723:18"/> gods on earth, whom he hath placed to rule ouer many and diuers kingdoms vpo<g ref="char:cmbAbbrStroke">̄</g> earth, might learne by the ſame lawes in things humane, and ſame religion in matters di<g ref="char:EOLhyphen"/>uine, to preſerue VVeale publike, and Chri<g ref="char:EOLhyphen"/>ſtian Societie among men.</p>
+            <p>But the ambition, and frowardneſſe of many, deſirous rather to be diſtracted into diuers names and countries, and to be ruled by diuers lawes and cuſtomes, do oft times hazard the common good and peace of the VVeale publique: where two kingdoms ſo deuided vnder one Soueraigne, are not vnlike the rich treaſures of pearle and gold, laid vp in one ſhippe, by contrarieties of di<g ref="char:EOLhyphen"/>uers winds to be driuen vpon rockes with ex<g ref="char:EOLhyphen"/>treameſt danger: as is ſaid in Tully, of deui<g ref="char:EOLhyphen"/>ding <note place="margin">Defin.</note> and diſtinguiſhing deſires into ſeueral parts and members, in ſuch diuerſities and differences: <hi>Hoc eſt diſsipare, &amp; non diſtinguere, fran<g ref="char:EOLhyphen"/>gere, &amp; non diuidere.</hi>
+            </p>
+            <p>VVhich thing is to be feared by not vni<g ref="char:EOLhyphen"/>ting, but keeping the two kingdomes ſtill in parts, when vpo<g ref="char:cmbAbbrStroke">̄</g> euery diſcontent in Scotla<g ref="char:cmbAbbrStroke">̄</g>d,
+<pb n="30" facs="tcp:7723:19"/> as at a backe dore paſſage may be giuen for forreine enemie, ſoone to weaken a deuided power: as Cyrus the Perſian ſoone emptied <note place="margin">
+                  <hi>Herodot.</hi> 1.</note> that great and deepe riuer, otherwiſe vnpaſ<g ref="char:EOLhyphen"/>ſable for his ſouldiers, by drawing it into di<g ref="char:EOLhyphen"/>uers chanels. And why ſhould not we feare ſuch and greater euils, if as Virgil laid infamy vpon vs, calling vs, <hi>toto diuiſos orbe Britannos:</hi> ſo we be content to adde greater infamie to our ſelues, and become <hi>toto in orbe diuiſi,</hi> deui<g ref="char:EOLhyphen"/>ded within our ſelues in the ſight and view of the whole world?</p>
+            <p>But I hope and wiſh for better things, that by Vnion in name of Britains, we may leaue to be any longer deuided into Engliſh and Scottiſh; as riuers of diuers names mee<g ref="char:EOLhyphen"/>ting in the ſea, receiue one and the ſame name: the rather, becauſe the elements of fire and water, of earth and aire, being of re<g ref="char:EOLhyphen"/>pugnant qualities, yet ioyned in one body, do agree in one forme, as in a medium, vni<g ref="char:EOLhyphen"/>ting and mixing them together: much more diuers kingdomes oft times heretofore at
+<pb n="31" facs="tcp:7723:19"/> warre and diſcord, yet now being vnited in<g ref="char:EOLhyphen"/>to one bodie, of one name and nature, quali<g ref="char:EOLhyphen"/>fied by equall mixture, of law, manners, ho<g ref="char:EOLhyphen"/>nors, mariages, and ſuch like, may be made perfect in one forme, and haue a being not as Engliſh and Scottiſh, but as Brittaines, knit together in that third and renowned name: that the Maxime may be verified in vs: <hi>Quae in aliquo tertio conueniunt, optimè conueniunt.</hi>
+            </p>
+            <p>I confeſſe, that ſome lawes of ours may be thought too ſtreight for them, and ſome li<g ref="char:EOLhyphen"/>berties of theirs vnfitting vs: but let all be wreſted alike, pulling ſome vp, and letting ſome downe, and in pleaſing harmonie we ſhall find, as Tully ſaith: <hi>Commune &amp; aequabile in<g ref="char:EOLhyphen"/>ter omnes, ius:</hi> where will be no ſtrife, as was be<g ref="char:EOLhyphen"/>tween Eſau and Iacob, vndermining and de<g ref="char:EOLhyphen"/>ceiuing one the other of bleſſing and patri<g ref="char:EOLhyphen"/>monie; but all loue, and vnitie, and concord, and content, as if all were not twins, but one man, euen one heart in one bodie.</p>
+            <p>And now if I phicrates, that valiant Leader <note place="margin">Plut.</note> were againe liuing, and asked, whether he
+<pb n="32" facs="tcp:7723:20"/> were vnder the now imperiall Maieſtie, this or that, Engliſh or Scottiſh, or among, or o<g ref="char:EOLhyphen"/>uer them, an horſeman, an archer, or a Lea<g ref="char:EOLhyphen"/>der, he might truly anſwer, as ſometimes he did in like caſe: No, not any of theſe, but I am he, who knoweth vnder him whom I ſerue, to commaund and gouerne all theſe, as if they were but one man: <hi>Vnius Ducis imperium ſi<g ref="char:EOLhyphen"/>mul</hi> 
+               <note place="margin">Sen. Epiſt.</note> 
+               <hi>ſentiunt omnes copiae.</hi> Thus in war and tumult, much more in quiet peace, may it be ſaid: Di<g ref="char:EOLhyphen"/>uers ſubiects <hi>ad nutum vnius Regis, &amp; eiuſdem legis omnes ſimul reſpondent.</hi>
+            </p>
+            <p>So powerfull is the force of Vnion, that <hi>vna Via</hi> being director for lawe, and <hi>Cor v<g ref="char:EOLhyphen"/>num</hi> performer for obedience: the lawe en<g ref="char:EOLhyphen"/>ioyning obedience, and obedience execu<g ref="char:EOLhyphen"/>ting law, the Prince cannot commaund what the people will not obey: and the people will obey what the Prince commandeth, and V<g ref="char:EOLhyphen"/>nitie among them will vphold all: <hi>Vnum imperij</hi> 
+               <note place="margin">
+                  <hi>Tacit. An.</hi> 1</note> 
+               <hi>corpus vnius animo regendum videtur:</hi> and ſo likewiſe, <hi>Eiuſdem iuris eſſe debent, qui ſub eode<g ref="char:cmbAbbrStroke">̄</g> Rege victuri ſunt.</hi> 
+               <note place="margin">
+                  <hi>Q. Cur.</hi> 10.</note>
+            </p>
+            <p>But rule of two kingdomes without vni<g ref="char:EOLhyphen"/>ting
+<pb n="33" facs="tcp:7723:20" rendition="simple:additions"/> them, is to giue occaſion to either part to looke backe for an old grudge, <hi>Vbi antiqui odij pertinacia in publicum ſtimulat exitium:</hi> which I feare would be, as the going backe of two Rammes, more fearefull to butt at, and beate one the other: where held both together in like yoke, one cannot eaſily offend or force the other. <hi>Sic enim immenſa multitudo authoritatis</hi> 
+               <note place="margin">Seneca.</note> 
+               <hi>quaſi ſpiritu regitur.</hi>
+            </p>
+            <p>And where it is of the nature of man not to indure all ſeruitude, nor all libertie, but to ſtriue to ſhake off the one, and to be wearie of the other; it is certaine, that equitie and e<g ref="char:EOLhyphen"/>quabilitie of like lawes to a diuers people v<g ref="char:EOLhyphen"/>nited in one, will make them (which other<g ref="char:EOLhyphen"/>wiſe feare ſeruitude) to enioy freedome: and thoſe which ſeeme moſt free by former pri<g ref="char:EOLhyphen"/>uiledges and immunities to feare ſeruitude, if they tranſgreſſe their bounds: for ſuch V<g ref="char:EOLhyphen"/>nion and equitie is <hi>communis cuſtodia, &amp; principa<g ref="char:EOLhyphen"/>tus &amp; reipublicae.</hi> But faction and ambition, are the father and mother of inteſtine calamitie, ciuill warre, and deadly feud.</p>
+            <pb n="34" facs="tcp:7723:21"/>
+            <p> VVho ſo loueth this, will neuer like that; neither is he of the bodie, but of the toes and feet of that image which Nabuchodonoſor <note place="margin">
+                  <hi>Dan.</hi> 2.</note> dreamed of, whoſe head was of fine gold, whoſe breaſt and armes of ſiluer, whoſe bel<g ref="char:EOLhyphen"/>ly and thighs of braſſe, whoſe legs of Iron, and whoſe feet, part of iron and part of clay. Siluer, braſſe, and iron are mettals eaſily mixed, but iron and clay will not by any meanes melt and ioyne together. Kingdoms deuided are prefigured in the iron and clay, they are partly warlike and well gouerned, and partly weake, factious, and ſeditious: they agree not to the king their golde<g ref="char:cmbAbbrStroke">̄</g> head, and though they (as the Text ſaith) mingle themſelues with the ſeed of men, yet ioyne <note place="margin">
+                  <hi>verſ.</hi> 43.</note> not one with another, but are as iron and clay, which will not be mixed together. The Poets call this latter age <hi>Ferrea:</hi> let vs which liue in it proue them Poets, and not Pro<g ref="char:EOLhyphen"/>phets, that ſo being ioyned to our golden head in all obedience and dutie, in all loue and zeale to our countrie, and in Vnitie
+<pb n="35" facs="tcp:7723:21"/> among our ſelues, we may liue a bleſſed life in the golden age of this our happy time, and ſhew our ſelues well tempered, not of brittle but of better clay: <hi>Queis</hi> (as the Poet ſaith) <hi>me<g ref="char:EOLhyphen"/>liore luto finxit praecordia Titan.</hi>
+            </p>
+            <p>Therefore let Ariſtides and Themiſtocles ioyned in one Commiſſion, conſult vpon the point, ſome for England, ſome for Scot<g ref="char:EOLhyphen"/>land, and for the VVeale publike ſay one to the other: <hi>Vis vt hîc deponamus inimicitias?</hi> why do <note place="margin">Plut.</note> we ſtriue together, for we are brethren? and they cannot but conclude, that the VVeale publique was neuer well adminiſtred with<g ref="char:EOLhyphen"/>out Vnion and amitie: namely, Vnion in the gouernment, and amitie among the gouer<g ref="char:EOLhyphen"/>ned.</p>
+            <closer>
+               <signed>Joh. Briſtol.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:7723:22" rendition="simple:additions"/>
+            <pb facs="tcp:7723:22"/>
+         </div>
+      </body>
+   </text>
+</TEI>
